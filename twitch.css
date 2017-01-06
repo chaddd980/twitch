@@ -1,0 +1,35 @@
+body {
+  background-color: #C3F7F9;
+  color: #75A5ED;
+  font-family: 'Kumar One', cursive;
+}
+
+.channels {
+  height: 100%;
+  width: 100%;
+  margin: 1rem 0rem;
+  padding: 3rem 0rem;
+  background-color: #A9F7FA;
+  list-style: none;
+  overflow: auto;
+  display: table;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
+
+.logo-div {
+  width: 25%;
+  height: 100%;
+  font-size: 1.1rem;
+}
+
+li {
+  padding-top: 0.8rem;
+}
+
+.game-info {
+  line-height: 80px;
+}
